@@ -14,7 +14,7 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://github.com/SHRP/manifest.git -b v3_9.0
+  MANIFEST: https://github.com/SHRP/manifest.git -b v3_10.0
   DEVICE: KE6
   DT_LINK: https://github.com/dhruvtadvi/android_recovery_tecno_ke6
   DT_PATH: device/tecno/KE6
